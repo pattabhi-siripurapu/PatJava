@@ -12,7 +12,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>30.0-jre</version> <!-- Outdated -->
+      <version>33.4.8-jre</version> <!-- Outdated -->
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
